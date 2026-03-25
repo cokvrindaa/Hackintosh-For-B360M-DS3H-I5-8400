@@ -13,6 +13,8 @@ thanks to : Opencore Simplify (EFI), isabsent (HDMI Framebuffer)
 - UHD 630 (HDMI)
 - SSD SATA 
 - Motherboard B360M DS3H
+- Opsional : USB WiFi Tplink TL W725N. Gunakan Opencore Mod untuk patch WIFI serta Suara
+
 
 
 
