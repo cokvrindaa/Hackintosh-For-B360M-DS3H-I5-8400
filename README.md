@@ -5,6 +5,8 @@ PERINGATAN ! : Jika terjadi kerusakan atau kehilangan pada sistem anda, saya tid
 
 thanks to : Opencore Simplify (EFI), isabsent (HDMI Framebuffer) 
 
+TIPS : Gunakan macOs Sonoma/Sequoia untuk performa yang lebih smooth sedikit....
+
 
 ![image alt](https://github.com/cokvrindaa/Hackintosh-For-B360M-DS3H-I5-8400/blob/c10ca79324f419aa1ab7e9d694c7d80a81c90072/tahoePreview.png)
 
