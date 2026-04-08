@@ -9,7 +9,7 @@ TIPS : Gunakan macOs Sonoma/Sequoia untuk performa yang lebih smooth sedikit....
 
 
 ![image alt](https://github.com/cokvrindaa/Hackintosh-For-B360M-DS3H-I5-8400/blob/c10ca79324f419aa1ab7e9d694c7d80a81c90072/tahoePreview.png)
-
+![image alt](https://github.com/cokvrindaa/Hackintosh-For-B360M-DS3H-I5-8400/blob/040b40947820063c464cc9bc7cd2b7eab3135a98/sequoia.png)
 
 
 ## Spesifikasi PC yang saya gunakan :
